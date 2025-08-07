@@ -134,7 +134,7 @@
     
     <p>En dado caso usted ya sabe cómo utilizar este sitio web, entonces puede darle clic aquí</p>
     
-   <button>Inicie su planificación aquí</button>
+   <a href="https://charlillos.github.io/To-Do-Listv3"><button>Inicie su planificación aquí</button></a>
   </div>
 
 </body>
