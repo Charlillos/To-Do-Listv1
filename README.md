@@ -1,4 +1,3 @@
-# To-Do-Listv1
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -131,7 +130,7 @@
     <h1 class="fade-in">BIENVENIDOS A NUESTRO SITIO DE GESTIÓN DE TAREAS Y DEBERES</h1>
     <p>Este es un sitio donde le podemos ayudar a gestionar, administrar, guardar y mostrar las tareas o deberes que usted tiene que realizar para x fecha y pueda organizar mejor su tiempo para que ocupe lo necesario para cada tarea.</p>
     
-><button>Aprenda a usarlo</button>
+<button>Aprenda a usarlo</button>
     
     <p>En dado caso usted ya sabe cómo utilizar este sitio web, entonces puede darle clic aquí</p>
     
